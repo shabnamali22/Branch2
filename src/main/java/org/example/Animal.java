@@ -12,4 +12,6 @@ public abstract class Animal {
 
     public abstract boolean eat(String foodType);
 
+    //ny ændring
+
 }
